@@ -4,9 +4,9 @@
 
 ## ⬇️ 다운로드
 
-**[최신 버전 받기 (Chalkak.exe)](https://github.com/dongjin3715-cmd/chalkak/releases/latest/download/Chalkak.exe)**
+**[최신 버전 받기 (Chalkak.exe)](https://github.com/zini00726-prog/chalkak/releases/latest/download/Chalkak.exe)**
 
-모든 버전: [Releases](https://github.com/dongjin3715-cmd/chalkak/releases)
+모든 버전: [Releases](https://github.com/zini00726-prog/chalkak/releases)
 
 ## 설치
 
